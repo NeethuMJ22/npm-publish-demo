@@ -1,0 +1,11 @@
+{
+  "name": "npm-publish-demo",
+  "version": "1.0.0",
+  "description": "Demo package to test npm publishing automation",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
